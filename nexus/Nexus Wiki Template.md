@@ -1,7 +1,7 @@
 # Welcome to [Page Title]
 
 Welcome to the official **Community Shaders User Wiki**.  
-Here you’ll find documentation, setup guides, FAQs, and more. Designed for users, by users, this wiki outlines how to get started with Community Shaders.
+This page outlines *lorem ipsum dolor sit amet*.
 
 This wiki is powered by the Nexus Mods documentation system and maintained by the community.  
 For more advanced information, see the [GitHub Developer Wiki](https://github.com/doodlum/skyrim-community-shaders/wiki).
@@ -45,6 +45,6 @@ Vivamus suscipit tortor eget felis porttitor volutpat. Sed porttitor lectus nibh
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet orci eget eros faucibus tincidunt. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi.
 
-Get involved via the [GitHub Repository](#) and [Discord Server](#).
+Get involved via the [GitHub Repository](https://github.com/doodlum/skyrim-community-shaders) and [Discord Server](https://discord.gg/nkrQybAsyy).
 
 
