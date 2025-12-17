@@ -8,4 +8,7 @@ This folder contains visual materials for demonstrating and promoting specific f
 - **comparison-images/** - Before/after comparisons and side-by-side feature demonstrations
 - **promotional/** - Marketing materials, social media posts, and feature announcements
 
-All materials are copyrighted. See LICENSE file for usage restrictions.
+All materials are copyrighted except for user-contributed media (for example,
+screenshots, videos, or artwork) which remain the copyright of their original
+authors unless those contributors explicitly grant a broader license. See
+[LICENSE](../LICENSE) for full details and usage restrictions.

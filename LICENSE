@@ -1,31 +1,66 @@
 Copyright (c) 2025 Skyrim Community Shaders Project
 
-ALL RIGHTS RESERVED
+ALL RIGHTS RESERVED (EXCEPT WHERE NOTED)
 
-This repository contains proprietary branding materials including but not limited 
-to logos, graphics, artwork, designs, promotional materials, and related assets 
-for the Skyrim Community Shaders project (doodlum/skyrim-community-shaders).
+This repository contains proprietary branding materials for the Skyrim Community
+Shaders project (doodlum/skyrim-community-shaders). The materials include, but
+are not limited to: logos, graphics, artwork, designs, promotional materials,
+color palettes, fonts, banners, and related assets.
 
-RESTRICTIONS:
+GENERAL RESTRICTIONS:
 
-1. NO PUBLIC USE: These materials are NOT licensed for public use, reproduction, 
-   distribution, or modification without express written permission from the 
-   copyright holder.
+1. NO PUBLIC USE: Except as explicitly stated below, these materials are NOT
+   licensed for public use, reproduction, distribution, modification, or
+   commercial exploitation without prior written permission from the copyright
+   holder.
 
-2. NO REDISTRIBUTION: You may not copy, distribute, display, perform, or create 
-   derivative works from any materials in this repository.
+2. NO REDISTRIBUTION: You may not copy, redistribute, publish, display,
+   perform, or create derivative works from materials in this repository
+   unless you have obtained explicit written permission.
 
-3. NO COMMERCIAL USE: These materials may not be used for any commercial purposes 
-   whatsoever without explicit written authorization.
+3. NO COMMERCIAL USE: These materials may not be used for commercial purposes
+   without explicit written authorization.
 
-4. VIEWING ONLY: Access to this repository does not grant any rights or licenses 
-   to use the materials contained herein.
+4. VIEWING ONLY: Access to this repository grants only the ability to view and
+   reference the files; it does not grant any license or trademark rights.
 
-PERMISSIONS:
+LOGO AND TRADEMARKS:
 
-Any use of these materials requires prior written permission from the Skyrim 
-Community Shaders project maintainers. To request permission, please contact 
-the project administrators through the official project channels.
+The "Community Shaders" project logo(s) and any associated wordmarks, device
+marks, or stylized marks provided in this repository are not licensed under
+GPL-3.0 or any other open-source license by virtue of being in this repository.
+They are provided solely for personal use (for example, to build the project
+from source) and may only be used in unmodified form. No trademark license is
+granted. Any use of the logo(s) for distribution, modification, commercial use,
+or to imply endorsement is strictly prohibited unless express written consent
+is provided by the Community Shaders team.
 
-For inquiries regarding licensing or usage of these materials, please contact 
-the project maintainers at: https://github.com/doodlum/skyrim-community-shaders
+USER-CONTRIBUTED MEDIA (SCREENSHOTS, VIDEOS, ETC.):
+
+Screenshots, videos, artwork, or other media submitted to the project by third
+party contributors ("user-contributed media") are explicitly excluded from the
+copyright asserted in this file. Copyright in user-contributed media remains
+with the original author/contributor. Unless the contributor has provided a
+separate license or written permission allowing broader use, you may not copy,
+redistribute, or commercially exploit user-contributed media without the
+express permission of the original author. When user-contributed media is
+included in this repository it is for display, review, and inclusion with the
+project only; it is not re-licensed by default.
+
+CONTRIBUTIONS:
+
+If you submit materials (including screenshots or promotional assets) to this
+repository and wish to grant the project a broader license for reuse, you must
+explicitly state so in writing (for example, by including a license file or a
+clear statement in your contribution).
+
+PERMISSIONS & REQUESTS:
+
+Any use of materials not expressly permitted by this file requires prior
+written permission from the Skyrim Community Shaders project maintainers. To
+request permission, or to clarify licensing for a particular asset, please
+contact the project administrators through the official project channels.
+
+Contact: https://github.com/doodlum/skyrim-community-shaders
+
+https://discord.com/invite/nkrQybAsyy

@@ -8,4 +8,4 @@ This folder contains branding materials specifically formatted for Nexus Mods pa
 - **description-images/** - Images used within mod descriptions and feature showcases
 - **thumbnails/** - Thumbnail images for mod listings and search results
 
-All materials are copyrighted. See LICENSE file for usage restrictions.
+All materials are copyrighted. See [LICENSE](../LICENSE) for usage restrictions.

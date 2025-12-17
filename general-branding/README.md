@@ -10,4 +10,4 @@ This folder contains core branding assets for the Skyrim Community Shaders proje
 - **color-palettes/** - Official color schemes and brand color guidelines
 - **fonts/** - Typography resources and font files used in branding
 
-All materials are copyrighted. See LICENSE file for usage restrictions.
+All materials are copyrighted. See [LICENSE](../LICENSE) for usage restrictions.
