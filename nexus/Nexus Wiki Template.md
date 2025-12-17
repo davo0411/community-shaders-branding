@@ -15,8 +15,7 @@ For more advanced information, see the [GitHub Developer Wiki](https://github.co
 ## Navigation
 
 - **[Sub-Page 1](#)**: Lorem ipsum dolor sit amet
-- **[Sub-Page 2](#)**: Lorem ipsum dolor sit amet  
-> `- **[Title](#)**: Short description`
+- **[Sub-Page 2](#)**: Lorem ipsum dolor sit amet
 
 ---
 
