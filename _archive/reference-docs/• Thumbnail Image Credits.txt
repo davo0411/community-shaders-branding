@@ -1,0 +1,13 @@
+Community Shaders - DrainvolOFF
+Cloud Shadows - DrainvolOFF
+Frame Generation - Striker66
+Grass Collision - UNKNOWN (Possibly Doodlum, from mod page)
+Grass Lighting - TheRoyalHat
+Light Limit Fix - nyddesson
+Screen Space Global Illumination - Faultier
+Screen Space Shadows - DrainvolOFF
+Skylighting - PixelsSquared
+Subsurface Scattering - Aokili
+Terrain Shadows - UNKOWN (Possibly ProfJack, from mod page)
+Wetness Effects - UNKNOWN (Possibly riverwood, from mod page)
+Water Effects - davo0411
